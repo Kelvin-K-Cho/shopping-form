@@ -60,6 +60,7 @@ GEM
     aws-sdk-resources (2.11.76)
       aws-sdk-core (= 2.11.76)
     aws-sigv4 (1.0.2)
+    bcrypt (3.1.12)
     better_errors (2.4.0)
       coderay (>= 1.0.0)
       erubi (>= 1.0.0)
@@ -269,6 +270,7 @@ DEPENDENCIES
   annotate
   autoprefixer-rails
   aws-sdk (< 3.0)
+  bcrypt (~> 3.1.7)
   better_errors
   binding_of_caller
   bootstrap (~> 4.0.0)
